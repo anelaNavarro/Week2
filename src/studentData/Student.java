@@ -7,6 +7,7 @@ package studentData;
 public class Student {
     
     private String studentName;
+    String programName;
     
     public Student(String studentName)
     {
